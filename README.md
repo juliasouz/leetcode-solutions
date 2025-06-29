@@ -8,7 +8,8 @@
 
 ## Progress
 
-✅ **Total Solved:** 1
+✅ **Total Solved:** 2
+
 🟢 Easy: 1 | 🟡 Medium: 1 | 🔴 Hard: 0
 
 ## How I Approach Problems
