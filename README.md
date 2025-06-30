@@ -9,7 +9,7 @@
 
 ## Progress
 
-✅ **Total Solved:** 3
+✅ **Total Solved:** 5
 
 🟢 Easy: 2 | 🟡 Medium: 2 | 🔴 Hard: 1
 
