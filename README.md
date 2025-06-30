@@ -10,7 +10,7 @@
 
 ✅ **Total Solved:** 3
 
-🟢 Easy: 1 | 🟡 Medium: 1 | 🔴 Hard: 1
+🟢 Easy: 2 | 🟡 Medium: 2 | 🔴 Hard: 1
 
 ## How I Approach Problems
 
