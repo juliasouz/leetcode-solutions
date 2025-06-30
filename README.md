@@ -5,6 +5,7 @@
 ## Categories
 
 - [Arrays](/arrays)
+- [Strings](/strings/)
 
 ## Progress
 
