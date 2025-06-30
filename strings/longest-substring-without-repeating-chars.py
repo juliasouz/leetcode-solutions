@@ -11,7 +11,7 @@ class Solution(object):
             current_char = s[right]
             previously_seen_char = seen_char.get(current_char)
 
-            if previously_seen_char is not None and previously_seen_char >= left:
+            if previously_seen_char >= left:
                 left = previously_seen_char + 1
         
             seen_char[current_char] = right
